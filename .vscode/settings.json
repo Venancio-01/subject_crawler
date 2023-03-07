@@ -1,0 +1,4 @@
+{
+  "python.formatting.provider": "yapf",
+  "python.linting.flake8Args": ["--max-line-length=140"]
+}
